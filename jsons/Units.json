@@ -1,13 +1,15 @@
 [
 	{
 		 "name": "Soldat de l'armée Révolutionnaires française",
-		"unitType": "Première République Française",
-		"uniqueTo": "Aliens",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Première République Française",
 		"movement": 2,
 		"strength": 35,
 		"rangedStrength": 36,
 		"range": 2,
   "attackSound": "shot"
+  "uniques" : ["[+7]% Strength bonus for [Military] units within [2] tiles", "Unbuildable"]
+  
 
 "name": "Citoyen Français engagé",
 		"unitType": "Gunpowder",
