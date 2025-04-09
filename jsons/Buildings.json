@@ -10,7 +10,7 @@
 		"cityHealth": 25,
   "requiredBuilding": "Castle",
 		"requiredTech": "Metallurgy"
-  "uniques": ["Destroyed when the city is captured", "[1] free [Worker] units appear"]
+  "uniques": ["Destroyed when the city is captured", "[1] free [Soldat de l'armée Révolutionnaires française] units appear"]
   "uniques"
 	},
 	{
