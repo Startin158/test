@@ -16,7 +16,7 @@
 		"name": "école républicaine",
 		"replaces": "University",
 		"uniqueTo": "Première République Francaise",
-		"cost": 120,
+		"cost": 125
 		"hurryCostModifier": 15,
 		"happiness": 1,
   "culture": 1
@@ -28,11 +28,10 @@
 		"requiredTech": "Education"
 	}
 ]
-	"name": "University",
-		"maintenance": 2,
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 2},
-		"requiredBuilding": "Library",
-		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
-		"requiredTech": "Education"
+	"name": "Patrimoine",
+		"maintenance": 4,
+  "cost": 245
+  "culture": 2,
+  "hurryCostModifier": 15,
+		"required" : "Academy" in this city
+		"requiredTech": "Globalization"
