@@ -11,10 +11,9 @@
   "requiredBuilding": "Castle",
 		"requiredTech": "Metallurgy"
   "uniques": ["Destroyed when the city is captured", "[1] free [Soldat de l'armée Révolutionnaires française] units appear"]
-  "uniques"
 	},
 	{
-		"name": "Breeders",
+		"name": "école républicaine",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Première République Francaise",
 		"cost": 80,
@@ -24,3 +23,11 @@
 		"requiredTech": "Engineering"
 	}
 ]
+	"name": "University",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
