@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Première République Francaise",
+		"leaderName": "",
+		"adjective": ["démocratique"],
+		"startBias": ["plain"],
+		"preferredVictoryType": "culturel",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Rendons sa liberté au peuple! faisons tomber la tyrannie! apportons la démocratie dans le monde!",
+		"startIntroPart2": "la France et ses idées révolutionnaires doivent se diffuser dans le monde, la démocratie doit être diffusé !",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Vous n'êtes qu'un obstacle à la Révolution et a la démocratie, nous devons vous éliminer pour le bien de tous.",
+		"attacked": "Le peuple est avec nous! vous tyrans, tomberez face à la puissance des idées démocratiques !",
+		"defeated": "Vous nous avez peut être vaincus... Mais jamais vous ne pourrez faire taire les idées Révolutionnaires !",
+		"introduction": "Nous souhaitons créer une belle amitié avec vous, et vous partager nos idées si affinités.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Bonjour, comment allez vous ?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
 		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
