@@ -15,24 +15,21 @@
 		"introduction": "Nous souhaitons créer une belle amitié avec vous, et vous partager nos idées si affinités.",
 		
 		"neutralHello": "Bonjour, comment allez vous ?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Je vous prie de parler.","Que voulez vous ?","Nous sommes prêt à vous écouter."],
+		"neutralNo": ["Désole, nous refusons.","Nous avons voté, nous refusons","Les urnes ont parlé, votre requête est rejeté."],
+		"neutralYes": ["Le peuple accepte.","La majorité est d'accord.","Faisons cela,les votes sont pour."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Le peuple vous hais.",
+		"hateLetsHearIt": ["Parlez.","Dépêché vous à parler.","Allez-y, dites."],
+		"hateNo": ["Évidement,le peuple est contre."," Les urnes sont claires, personne ne veut coopèrer avec des tyrans.","La démocratie refuse tout accord avec votre dictature"],
+		"hateYes": ["Bon, nous acceptons.","Les votes sont mitigé,mais la majorité a accepté."," La tyrannie et la démocratie qui conclut un accord, quelle tragédie..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Nous pension que vous partagiez nos idéaux de liberté, d'égalité et de fraternité. Nous voyons maintenant que vous n'êtes pas nos frères.",
+		"tradeRequest": "Nous espérons que vous acceptiez cette demande, pour le bien de nos deux peuples..",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Paris","","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
 	}
 ]
