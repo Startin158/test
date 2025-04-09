@@ -13,5 +13,14 @@
 		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
+
+  "name": "",
+		"unitType": "Ranged",
+		"uniqueTo": "Aliens",
+		"movement": 2,
+		"strength": 90,
+		"rangedStrength": 36,
+		"range": 2,
+		"cost": 500,
 	}
 ]
