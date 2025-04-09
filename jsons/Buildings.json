@@ -33,7 +33,7 @@
   "cost": 245
   "culture": 2,
   "hurryCostModifier": 15,
-		"required" : "Academy" in this city
+		"required" : "Academy" [in this city]
 		"requiredTech": "Globalization"
 
 ejej
