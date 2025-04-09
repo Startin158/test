@@ -1,26 +1,22 @@
 [
 	{
-		"name": "Citoyen Français engagé",
-		"unitType": "Ranged",
+		 "name": "Soldat de l'armée Révolutionnaires française",
+		"unitType": "Première République Française",
 		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
+		"strength": 35,
 		"rangedStrength": 36,
 		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+  "attackSound": "shot"
 
-  "name": "Soldat de l'armée Révolutionnaires française",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
+"name": "Citoyen Français engagé",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",
+		"uniqueTo": "Première République Française",
+		"movement": 5,
+		"strength": 18,
+		"cost": 50,
+		"requiredTech": "Gunpowder",
+		"attackSound": "shot"
 	}
 ]
