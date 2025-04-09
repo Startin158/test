@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Citoyen Français engagé",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
@@ -14,7 +14,7 @@
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 
-  "name": "",
+  "name": "Soldat de l'armée Révolutionnaires française",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"movement": 2,
