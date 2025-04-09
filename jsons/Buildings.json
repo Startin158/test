@@ -3,7 +3,7 @@
 		"name": "Camp Révolutionnaire",
 		"replaces": "Arsenal",
 		"uniqueTo": "Première République Francaise",
-		"cost": 320,
+		"cost": 145,
 		"happiness": 1,
 		"culture": 1,
   "cityStrength": 12,
@@ -14,13 +14,18 @@
 	},
 	{
 		"name": "école républicaine",
-		"replaces": "Aqueduct",
+		"replaces": "University",
 		"uniqueTo": "Première République Francaise",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"cost": 120,
+		"hurryCostModifier": 15,
+		"happiness": 1,
+  "culture": 1
+  "science" : 1
+  "maintenance": 3,
+  "percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"uniques": ["[+2 Science] from [forest] tiles [in this city]", ["[+1 culture] from [forest] tiles [in this city]],
+		"requiredTech": "Education"
 	}
 ]
 	"name": "University",
