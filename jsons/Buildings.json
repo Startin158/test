@@ -33,7 +33,7 @@
   "cost": 245
   "culture": 2,
   "hurryCostModifier": 15,
-		"required" : "Academy" [in this city]
+  "uniques" :"[+1 culture] from [Academy] tiles [in this city]","[+1 culture] from [Landmaek] tiles [in this city]","[+1 culture] from [Manufactory] tiles [in this city]",'[+1 culture] from [Customs house] tiles [in this city]","[+1 culture] from [Holy site] tiles [in this city]","[+1 culture] from [Citadel] tiles [in this city]"
 		"requiredTech": "Globalization"
 
 ejej
