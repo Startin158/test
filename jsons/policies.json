@@ -9,25 +9,25 @@
         },
         "uniques": [
             "[+3 Culture] [in capital]",
-            "[]% Culture cost of natural border growth [in all cities]","Only available <before adopting [Order]>"
+            "[+1 Hapiness] [in all cities]","Only available <before adopting [Order]>"
         ],
         "policies": [
             {
-                "name": "Aristocracy",
+                "name": "Pratiques démocratique",
                 "uniques": [
-                    "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"
+                    "[+1 science] per [7] population [in all cities]",
+                    "[+1 culture] per [7] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
             },
             {
-                "name": "Legalism",
+                "name": "Suffrage",
                 "uniques": [
-                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                    "[+1 Hapiness] per [12] population [in all cities]"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 2
             },
             {
                 "name": "Oligarchy",
