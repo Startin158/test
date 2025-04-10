@@ -30,8 +30,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [0,0,255],
 		"uniquenames": "La première démocratie moderne",
-  "uniques": ["[+2 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Hapiness] [in all cities]"]
+  "uniques": ["[+1 Culture] [in all cities]", "[Great Artist] is earned [50]% faster","[+1 Hapiness] [in all cities]"]
 		"cities": ["Paris","","Commune-Affranchie","Ville-Sans-Nom","Grelibre","Ville-d'arme","Bordeaux","Nantes","Toulouse","Le-Havre","Montpellier","Rouen","Reims","Dijon","Mulhouse","Havre","Amiens","Caen","Le-Mans","Angers","Nice","Brest","Tours","Valenciennes","Orléans","Saint-Malo","Nancy","Metz","Strasbourg","Lille","Besançon","Clermont-Ferrand","Limoges","Poitiers","La-Rochelle","Perpignan","Avignon","Bourges","Montauban","Pau","Bastia","Bayonne","Saint-Brieuc","Quimper","Agen","Tarbes","Châteauroux","Blois","Chalon-sur-Saône"]
-"spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustine", "Monsieur X", "Dr. Dupont", "Vipère", "Yvette", "Renard"]
+"spyNames": ["Jean-Paul", "Martine", "Lucien", "François", "Augustin", "Josianne", "Dupont", "Louise", "Yvette", "Coque"]
 	}
 ]
