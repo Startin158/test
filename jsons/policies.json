@@ -24,20 +24,19 @@
             {
                 "name": "Suffrage",
                 "uniques": [
-                    "[+1 Hapiness] per [12] population [in all cities]"
+                    "[+1 Hapiness] per [12] population [in all cities]","[-5]% unhapiness [in all cities]"
                 ],
                 "row": 1,
                 "column": 2
             },
             {
-                "name": "Oligarchy",
+                "name": " Volonté de vivre en démocratie",
                 "uniques": [
-                    "Units in cities cost no Maintenance",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>",
+                    "[+50]% Strength for cities","[+50]% Strength for units when ",
                     "[-100]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 3
             },
             {
                 "name": "Landed Elite",
@@ -45,7 +44,6 @@
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "requires": ["Legalism"],
                 "row": 2,
                 "column": 2
             },
