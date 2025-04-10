@@ -32,7 +32,7 @@
             {
                 "name": " Volonté de vivre en démocratie",
                 "uniques": [
-                    "[+50]% Strength for cities","[+50]% Strength for units when ",
+                    "[+50]% Strength for cities","[+50]% Strength for units when <in city tiles>",
                     "[-100]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
