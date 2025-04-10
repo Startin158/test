@@ -39,22 +39,21 @@
                 "column": 3
             },
             {
-                "name": "Landed Elite",
+                "name": "Pluralisme",
                 "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+                    "[+5]% culture [in all cities]","[+5]% sciences [in all cities]"]
+                "requires": ["Pratiques démocratique"],
                 ],
                 "row": 2,
-                "column": 2
+                "column": 1
             },
             {
-                "name": "Monarchy",
+                "name": "Suffrage universel",
                 "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
-                ],
-                "requires": ["Legalism"],
+                    "[+2 Gold,per [12] pollution [in all cities]","[+1 Hapiness] per [12] population [in all cities]"]
+                "requires": ["Suffrage"],
                 "row": 2,
-                "column": 4
+                "column": 2
             },
             {
                 "name": "Tradition Complete",
