@@ -1,5 +1,5 @@
         "name": "Démocratie",
-        "era": "Nouvelle aire",
+        "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
             "Cultural": 5,
@@ -9,7 +9,7 @@
         },
         "uniques": [
             "[+3 Culture] [in capital]",
-            "[-25]% Culture cost of natural border growth [in all cities]"
+            "[]% Culture cost of natural border growth [in all cities]","Only available <before adopting [Order]>"
         ],
         "policies": [
             {
