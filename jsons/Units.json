@@ -16,9 +16,16 @@
 		"replaces": "Musketman",
 		"uniqueTo": "Première République Française",
 		"movement": 5,
-		"strength": 18,
+		"strength": 20,
 		"cost": 50,
 		"requiredTech": "Gunpowder",
 		"attackSound": "shot"
+
+"name": "Citoyen",
+		"unitType": "Sword"
+		"movement": 3,
+		"strength": 10,
+  "uniques":"unbuildable"
+		"attackSound": "nonmetalhit"
 	}
 ]
