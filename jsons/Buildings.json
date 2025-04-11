@@ -29,7 +29,7 @@
 },
 {
 	"name": "Patrimoine",
-		"maintenance": 4,
+		"maintenance": 3,
   "cost": 245
   "culture": 2,
   "hurryCostModifier": 15,
@@ -39,7 +39,16 @@
 {
  
 "name": "Lieu démocratique",
-		"maintenance":1
+		"maintenance":2
+  "culture": 3,
+  "happiness": 1,
+  "science": 2,
+  "production":1,
+  "uniques" :"[]"
+},
+{
+ 
+"name": "Gouvernement",
   "culture": 3,
   "happiness": 1,
   "science": 2,
