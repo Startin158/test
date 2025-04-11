@@ -57,7 +57,7 @@
   {
                 "name": "Réel démocratie",
                 "uniques": [
-                    "[+2 production,per [10] pollution [in all cities]","May buy [Great Merchant] units for [1000] [gold] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>"]
+                    "[+2 production,per [10] pollution [in all cities]","May buy [Lieu démocratiqie] units for [1000] [gold] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>"]
                 "requires": ["Suffrage"],
                 "row": 2,
                 "column": 2
