@@ -1,4 +1,10 @@
 {
+        "name": "Démocratique",
+        "type": "Follower",
+        "uniques": ["[+2 Happiness] <in cities with at least [5] [Followers of this Religion]>","[+2 food] <in cities with at least [5] [Followers of this Religion]>"
+]
+    },
+{
         "name": "écoute du peuple",
         "type": "Follower",
         "uniques": ["[+2 Happiness] <in cities with at least [5] [Followers of this Religion]>","[+2 food] <in cities with at least [5] [Followers of this Religion]>"
@@ -7,5 +13,5 @@
 {
         "name": "Autoritaire",
         "type": "Founder",
-        "uniques": ["[-2 Happiness] <in all cities> [Followers of this Religion]>","[+2 production] <in  all cities> [Followers of this Religion]>","[+2 gold] <in  all cities> [Followers of this Religion]"
+        "uniques": ["[-2 Happiness] <in cities with at least [5] [Followers of this Religion]>","[+3 production] <in  all cities> [Followers of this Religion]>","[+3 gold] <in  all cities> [Followers of this Religion]"
 ]
