@@ -9,14 +9,14 @@
         },
         "uniques": [
             "[+3 Culture] [in capital]",
-            "[+1 Hapiness] [in all cities]","Only available <before adopting [Order]>"
+            "[+1 Hapiness] [in all cities]","Only available <before adopting [Order]>","[-30]% weight to this choice for AI decisions"
         ],
         "policies": [
             {
                 "name": "Pratiques démocratique",
                 "uniques": [
-                    "[+1 science] per [7] population [in all cities]",
-                    "[+1 culture] per [7] population [in all cities]"
+                    "[+1 science] per [8] population [in all cities]",
+                    "[+1 culture] per [8] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
@@ -30,10 +30,10 @@
                 "column": 2
             },
             {
-                "name": " Volonté de vivre en démocratie",
+                "name": "Croyances au système",
                 "uniques": [
                     "[+50]% Strength for cities","[+50]% Strength for units when <in city tiles>",
-                    "[-100]% weight to this choice for AI decisions"
+                    "[+10]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
                 "column": 3
@@ -43,7 +43,6 @@
                 "uniques": [
                     "[+5]% culture [in all cities]","[+5]% sciences [in all cities]"]
                 "requires": ["Pratiques démocratique"],
-                ],
                 "row": 2,
                 "column": 1
             },
@@ -51,6 +50,14 @@
                 "name": "Suffrage universel",
                 "uniques": [
                     "[+2 Gold,per [12] pollution [in all cities]","[+1 Hapiness] per [12] population [in all cities]"]
+                "requires": ["Suffrage"],
+                "row": 2,
+                "column": 2
+            },
+  {
+                "name": "Réel démocratie",
+                "uniques": [
+                    "[+2 production,per [10] pollution [in all cities]","Provides a [Constitution] in your capital for free"]
                 "requires": ["Suffrage"],
                 "row": 2,
                 "column": 2
