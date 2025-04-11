@@ -55,14 +55,20 @@
                 "column": 2
             },
   {
-                "name": "Réel démocratie",
+                "name": "Aménagement",
                 "uniques": [
-                    "[+2 production,per [10] pollution [in all cities]","May buy [Lieu démocratiqie] building for [1000] [gold] [in all cities] at an increasing price ([500]) <starting from the [Industrial era]>"]
-                "requires": ["Suffrage"],
-                "row": 2,
+                    "[+2 production,per [10] pollution [in all cities]","May buy [Lieu démocratique] buildings for [1250] [gold] [in all cities]"]
+                "requires": ["Suffrage universel"],
+                "requires": ["Pluralisme"],
+                "row": 3,
                 "column": 2
             },
-            {
+{
+                "name": "Engagement citoyen",
+                "uniques": [
+                    "[+25]% Strength for cities","May buy [Lieu démocratique] units for [50] [gold] [in all cities] when in war",
+            },
+{
                 "name": "Tradition Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
