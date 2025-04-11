@@ -11,7 +11,7 @@
 {
         "name": "Peuple obéissant",
         "type": "Follower",
-        "uniques": ["[-2 Happiness] <in cities with at least [5] [Followers of this Religion]>","[+3 production] <in  all cities> [Followers of this Religion]>","[+3 gold] <in  all cities> [Followers of this Religion]"
+        "uniques": ["[-2 Happiness] <in cities with at least [5] [Followers of this Religion]>","[+3 production] <in  all cities> [Followers of this Religion]>","[+3 gold] <in  all cities> [Followers of this Religion]"]
     },
 {
         "name": "Grand Despote",
