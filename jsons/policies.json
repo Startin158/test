@@ -66,11 +66,11 @@
 {
                 "name": "Engagement citoyen",
                 "uniques": [
-                    "[+25]% Strength for cities","May buy [Lieu démocratique] units for [50] [gold] [in all cities] when in war",
+                    "[+25]% Strength for cities","May buy [Citoyen] units for [25] [faith] [in all cities] when in war",
            
 {
-                "name": "Tradition Complete",
+                "name": "Démocratie Complete",
                 "uniques": [
                     "[+15]% growth [in all cities]",
-                    "Provides a [Aqueduct] in your first [4] cities for free"
+                    "Provides a [Gouvernement] in your first capital for free"
                 ]
