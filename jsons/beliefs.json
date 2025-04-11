@@ -16,6 +16,6 @@
 {
         "name": "Grand Despote",
         "type": "Founder",
-        "uniques": ["[+1 culture] for each global city following this religion","[+1 culture] for each global city following this religion"]
+        "uniques": ["[+1 culture] for each global city following this religion","Resting point for Influence with City-States following this religion [+25]"]
+    },]
     }
- ]
